@@ -2,7 +2,7 @@
   "description": "A simple example deployed using react-codesandboxer",
   "main": "index.js",
   "dependencies": {
-    "query-string": "7.0.0",
+    "query-string": "7.1.3",
     "querystring": "0.2.1",
     "react": "latest",
     "react-dom": "latest",
